@@ -39,6 +39,8 @@ Using a blog publishing platform such as [WordPress](https://wordpress.com/crea
 #### “Share” (or the class Wiki):
 The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found. To turn in your homework you must link to it every day using [Markdown](https://www.markdownguide.org/). You are required to post on the wiki. To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day.
 
+---
+
 #### Method of Evaluation:
 1. Regular assignments (20% of grade): Course Blog + Wiki
 
@@ -67,12 +69,12 @@ The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the 
 Subscription to Lynda.com is available through the New York City Library system. Go to https://www.lynda.com/ > Sign In (upper right corner) > “Sign in with you organization portal” (under Continue button) > Enter your organization’s URL to log in through their portal: for example “bklynlibrary.org” (for a Brooklyn Library member) > Enter Library Card Number and Library Card Pin and you will have access to the assigned video tutorials. A Lynda.com Kiosk is also available on a first come first serve basis at the Technology Resource Center located in Thomas Hunter, Room 402.
 * [HTML, CSS + JS Dan Shiffman Tutorials](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 
-Suggested Texts:
-[Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
-[Dive into HTML5](http://diveinto.html5doctor.com/) - Mark Pilgrim
-[W3 Schools](https://www.w3schools.com/)
-[Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-[Learn Enough](https://www.learnenough.com/) - Michael Hartl
+#### Suggested Texts:
+* [Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
+* [Dive into HTML5](http://diveinto.html5doctor.com/) - Mark Pilgrim
+* [W3 Schools](https://www.w3schools.com/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [Learn Enough](https://www.learnenough.com/) - Michael Hartl
 ---
 
 #### Course Outline (this is subject to change):
