@@ -15,20 +15,20 @@ This production course is an introduction to writing code for the web through th
 By enrolling in this course and entering the classroom, each student makes the tacit commitment to participate in the class. Active class participation involves more than mere physical presence. Students are expected to be actively involved in the class, contributing positively to discussions, arriving on time having thoughtfully completed the reading, technical and creative assignments. They should take the initiative in discussion and projects, ask relevant questions, and contribute to the over-all learning environment of the class.
 
 It is your responsibility:
-1. To prepare for class by having read assignments, written papers and/or prepared projects;
-2. To actively participate in class discussion and activities;
-3. To take notes on discussions, presentations, and activities conducted within the class;
-4. To complete all course assignments, even if you are absent from a class meeting. 
+1. To prepare for class by having read assignments, written papers and/or prepared projects
+2. To actively participate in class discussion and activities
+3. To take notes on discussions, presentations, and activities conducted within the class
+4. To complete all course assignments, even if you are absent from a class meeting
 
-Although you will need your laptop with you for every class, computers should be closed and mobile devices silent and not glowing during critique, class discussion and technical demonstrations. The mis-use of computational machines while in class will negatively affect your grade.
+Although you will need your laptop for every class, computers should be closed and mobile devices silent + not glowing during critique, class discussion and technical demonstrations. The mis-use of computational machines while in class will negatively affect your grade.
 
 ---
 
 #### Expected Learning Outcomes:
-1. Create a media-rich website with a text editor that uses responsive design to adapt to the browser and device of the user
+1. Know more about web authoring technologies including CSS, HTML, and JavaScript
+2. Create a media-rich website with a text editor that uses responsive design to adapt to the browser and device of the user
 2. Compose pseudocode to think through problems and create site maps and wireframes to map out project development
 3. Apply JavaScript libraries and API’s for web development
-4. Apply design concepts with CSS, HTML and JavaScript
 5. Distinguish important characteristics of Internet Art and identify leading practitioners
 6. Distinguish the trade-offs between creating a website with a CMS and a text editor
 
@@ -40,17 +40,17 @@ Using a blog publishing platform such as [WordPress](https://wordpress.com/crea
 The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the rest of the syllabus including each day's resources, in-class and take-home assignments will be found. To turn in your homework you must link to it every day using [Markdown](https://www.markdownguide.org/). You are required to post on the wiki. To contribute to the wiki you must set up a [Github](http://www.github.com) account. We will do this in class on the first day.
 
 #### Method of Evaluation:
-1. Course Blog + Wiki - Regular assignments 20% of grade
+1. Regular assignments (20% of grade): Course Blog + Wiki
 
-2. Code Exercises (20% of grade) will be executed through the semester by following in class demonstrations, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
+2. Class Participation (20% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
 
-4. Quizzes (25% of grade) that may either be completed by week 8 9 (March 30th) of the semester or may be a work in progress toward a semester-long project.
+3. Code + Technical Exercises (20% of grade) will be executed through the semester by following in class demonstrations, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
+
+4. Midterm Project (25% of grade) 
 
 5. Final Project (25% of grade) due during Final Week of Classes 
-    Full Project Proposal - Abstract and 1500-2000 Word Description 
-    For websites and applications hand in Wireframe and Sitemap
+   
 
-6. Class Participation (20% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
 
 ---
 #### Materials:
@@ -121,20 +121,20 @@ Suggested Texts:
 * Variables + Arrays
 ---
 ###### Week 8 : Wednesday October 31
-* More JS
+MIDTERM PROJECT DUE + CRITIQUE
 ---
 ###### Week 9 : Wednesday November 7
+* More JS
+---
+###### Week 10 : Wednesday November 14
 * Intro to JS libraries
 * Intro to p5.js
 ---
-###### Week 10 : Wednesday November 14
+###### Week 11 : Wednesday November 21
 * Intro to Bootstrap.js
 ---
-###### Week 11 : Wednesday November 21
-* Intro to JQuery
----
 ###### Week 12 : Wednesday November 28
-TBD
+* Intro to JQuery
 ---
 ###### Week 13 : Wednesday December 5
 TBD
