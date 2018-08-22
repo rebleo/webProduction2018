@@ -66,7 +66,7 @@ The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the 
 #### Required Viewing + Reading:
 * There will be a reading every week. Readings will be linked from the class wiki each week.
 * [Lynda.com](https://www.lynda.com/): HTML, CSS & JavaScript Essential Training
-Subscription to Lynda.com is available through the New York City Library system. Go to https://www.lynda.com/ > Sign In (upper right corner) > “Sign in with you organization portal” (under Continue button) > Enter your organization’s URL to log in through their portal: for example “bklynlibrary.org” (for a Brooklyn Library member) > Enter Library Card Number and Library Card Pin and you will have access to the assigned video tutorials. A Lynda.com Kiosk is also available on a first come first serve basis at the Technology Resource Center located in Thomas Hunter, Room 402.
+Subscription to Lynda.com is available through the New York City Library system. Go to[Lynda.com](https://www.lynda.com/) Sign In (upper right corner) > “Sign in with you organization portal” (under Continue button) > Enter your organization’s URL to log in through their portal: for example “bklynlibrary.org” (for a Brooklyn Library member) > Enter Library Card Number and Library Card Pin and you will have access to the assigned video tutorials. A [Lynda.com Kiosk](http://www.hunter.cuny.edu/it/lyndakiosk) is also available on a first come first serve basis at the Technology Resource Center located in Thomas Hunter, Room 402.
 * [HTML, CSS + JS Dan Shiffman Tutorials](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
 
 #### Suggested Texts:
