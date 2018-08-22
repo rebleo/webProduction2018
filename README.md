@@ -123,7 +123,7 @@ Subscription to Lynda.com is available through the New York City Library system.
 * Variables + Arrays
 ---
 ###### Week 8 : Wednesday October 31
-MIDTERM PROJECT DUE + CRITIQUE
+* MIDTERM PROJECT DUE + CRITIQUE
 ---
 ###### Week 9 : Wednesday November 7
 * More JS
@@ -137,15 +137,16 @@ MIDTERM PROJECT DUE + CRITIQUE
 ---
 ###### Week 12 : Wednesday November 28
 * Intro to JQuery
+* Next Steps - The Server Side
 ---
 ###### Week 13 : Wednesday December 5
-TBD
+* TBD
 ---
 ###### Week 14 : Wednesday December 12
-TBD
+* Final Project Workshop
 ---
 ###### Week 15 : Wednesday December 19
-FINAL PROJECTS DUE
+* FINAL PROJECTS DUE + CRITIQUE
 
 ---
 
@@ -161,7 +162,7 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section 50
 ##### Hunter College Policy on Sexual Misconduct:
  In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College. 
 
-a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444). b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, [Dean John Rose](jtrose@hunter.cuny.edu or 212-650-3262) or [Colleen Barry](colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444). b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, [Dean John Rose](jtrose@hunter.cuny.edu) or 212-650-3262 or [Colleen Barry](colleen.barry@hunter.cuny.edu) or 212-772-4534 and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123.
 
 ##### Emergency/Crisis Info: 
 This is a list of numbers, which you can use if there is an emergency or crisis situation on the Hunter campus or if you need assistance at other times.  Security -B125 West - 772 – 4444;  Medical Office - Room 307 North - 772 – 4800 (During business hours) Office of Student Services - 1119 East - 772 – 4882 4891 (crisis counseling available), The Women's Center - 801 East - 772 – 4931.
