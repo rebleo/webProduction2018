@@ -1,6 +1,6 @@
 ## Web Production 1, Fall 2018
 #### August 27 - December 21, 2018 | Film + Media, Hunter College
-#### MEDP 28500 - 22156 || Wednesdays 7pm - 9:40 pm || North Building 432
+#### MEDP 28500 - 22156 || Wednesdays 7pm - 9:40 pm || North Building HN-470
 
 	Professor: Rebecca Leopold
 	Email: rl1697@hunter.cuny.edu
@@ -42,15 +42,13 @@ The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the 
 ---
 
 #### Method of Evaluation:
-1. Regular assignments (20% of grade): Course Blog + Wiki
+1.  Regular assignments: Course Blog + Wiki + Code + Technical Exercises (30% of grade) will be executed through the semester by following in class demonstrations, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
 
 2. Class Participation (20% of grade): Please arrive to class on time. Please do the assigned readings and come to class prepared to share your reflections - active and informed discussion makes the course more interesting for everyone. Attendance to all classes is required and attendance is taken at each class.
 
-3. Code + Technical Exercises (20% of grade) will be executed through the semester by following in class demonstrations, online tutorials and assigned readings. These exercises will be essential for learning markup and coding and to successfully complete more complex projects.
+3.  Midterm Project (25% of grade) 
 
-4. Midterm Project (25% of grade) 
-
-5. Final Project (25% of grade) due during Final Week of Classes 
+4. Final Project (25% of grade) due during Final Week of Classes 
    
 
 
