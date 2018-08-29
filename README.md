@@ -51,7 +51,6 @@ The [class wiki](https://github.com/rebleo/webProduction2018/wiki) is where the 
 4. Final Project (25% of grade) due during Final Week of Classes 
    
 
-
 ---
 #### Materials:
 * Class Blog
