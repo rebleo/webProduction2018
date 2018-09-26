@@ -95,23 +95,20 @@ Subscription to Lynda.com is available through the New York City Library system.
 * Images + Video w/ HTML
 * Sitemap + Wireframes
 
-##### Assignment:
-
 ---
 ###### [Week 3](https://github.com/rebleo/webProduction2018/wiki/Week-03) : Wednesday September 26
 * HTML Attributes
 * Intro to CSS
 
-##### Assignment:
 ---
 ###### [Week 4](https://github.com/rebleo/webProduction2018/wiki/Week-04) : Wednesday October 3
 * CSS Text Formatting + Color
 ---
-###### Week 5 : Wednesday October 10
+###### [Week 5](https://github.com/rebleo/webProduction2018/wiki/Week-05) : Wednesday October 10
 * CSS Positioning - fluid layouts
 * CSS Positioning - CSS Grid
 ---
-###### Week 6 : Wednesday October 17
+###### [Week 6](https://github.com/rebleo/webProduction2018/wiki/Week-05) : Wednesday October 17
 * CSS3: Animation
 ---
 ###### Week 7 : Wednesday October 24
