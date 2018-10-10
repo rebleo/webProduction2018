@@ -103,24 +103,26 @@ Subscription to Lynda.com is available through the New York City Library system.
 ---
 ###### [Week 4](https://github.com/rebleo/webProduction2018/wiki/Week-04) : Wednesday October 3
 * CSS Text Formatting + Color
----
-###### [Week 5](https://github.com/rebleo/webProduction2018/wiki/Week-05) : Wednesday October 10
-* CSS Positioning - fluid layouts
 * CSS Positioning - CSS Grid
 ---
-###### [Week 6](https://github.com/rebleo/webProduction2018/wiki/Week-05) : Wednesday October 17
+###### [Week 5](https://github.com/rebleo/webProduction2018/wiki/Week-05) : Wednesday October 10
+* Responsive Web Design
+* Intro to Grids
+
+---
+###### [Week 6](https://github.com/rebleo/webProduction2018/wiki/Week-06) : Wednesday October 17
+* CSS Positioning - fluid layouts
 * CSS3: Animation
 ---
-###### Week 7 : Wednesday October 24
+###### [Week 7](https://github.com/rebleo/webProduction2018/wiki/Week-07) : Wednesday October 24
 * Intro to Programming
-* JavaScript Workflow + the Canvas
-* Variables + Arrays
 ---
 ###### Week 8 : Wednesday October 31
 * MIDTERM PROJECT DUE + CRITIQUE
 ---
 ###### Week 9 : Wednesday November 7
-* More JS
+* JavaScript Workflow + the Canvas
+* Variables + Arrays
 ---
 ###### Week 10 : Wednesday November 14
 * Intro to JS libraries
