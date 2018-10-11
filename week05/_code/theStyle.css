@@ -1,0 +1,30 @@
+/* this is a comment in CSS */
+
+h2 {
+	font-family: Times;
+	background: DarkCyan;
+ text-align: center;
+}
+
+
+body {
+	font-family: 'Comic Sans MS';
+/*	font-family: 'Roboto', sans-serif;*/
+	font-size: 15px;
+	background: rgb(200,200,200);
+
+
+}
+
+.textBody{
+	background-color: pink;
+	padding: 100;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+
