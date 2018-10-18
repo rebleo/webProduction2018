@@ -1,0 +1,21 @@
+div.theFirstExample {
+	font-family: 'Avenir';
+    background-color: pink;
+  	padding: 10px;
+		border: 2px solid;
+		border-radius: 5px;
+}
+
+
+.smooth {
+	display: block;
+	text-decoration:none;
+	text-align: center;
+	padding: 1em 2em;
+	width: 10em;
+	border-radius: 1.5em;
+	background-color: mediumblue;
+	transition-property: background-color; transition-duration: 6s;
+}
+.smooth:hover, .smooth:focus {
+background-color: red; }
