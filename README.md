@@ -112,31 +112,35 @@ Subscription to Lynda.com is available through the New York City Library system.
 ---
 ###### [Week 6](https://github.com/rebleo/webProduction2018/wiki/Week-06) : Wednesday October 17
 * CSS Positioning - fluid layouts
-* CSS3: Animation
+
 ---
 ###### [Week 7](https://github.com/rebleo/webProduction2018/wiki/Week-07) : Wednesday October 24
-* Intro to Programming
+* Midterm Project Proposals
+* CSS3: Animation
 ---
-###### Week 8 : Wednesday October 31
+###### [Week 8](https://github.com/rebleo/webProduction2018/wiki/Week-08) : Wednesday October 31
 * MIDTERM PROJECT DUE + CRITIQUE
 ---
-###### Week 9 : Wednesday November 7
-* JavaScript Workflow + the Canvas
+###### [Week 9](https://github.com/rebleo/webProduction2018/wiki/Week-09) : Wednesday November 7
+* Intro to Programming
+* JavaScript Workflow, Syntax + the Canvas
 * Variables + Arrays
 ---
-###### Week 10 : Wednesday November 14
+###### [Week 10](https://github.com/rebleo/webProduction2018/wiki/Week-10) : Wednesday November 14
+* More JS
 * Intro to JS libraries
 * Intro to p5.js
 ---
 ###### Week 11 : Wednesday November 21
+* More JS
 * Intro to Bootstrap.js
 ---
 ###### Week 12 : Wednesday November 28
-* Intro to JQuery
-* Next Steps - The Server Side
+* Final Project Proposals
 ---
 ###### Week 13 : Wednesday December 5
-* TBD
+* Intro to JQuery
+* Next Steps - The Server Side
 ---
 ###### Week 14 : Wednesday December 12
 * Final Project Workshop
